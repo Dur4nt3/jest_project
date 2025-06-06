@@ -31,7 +31,7 @@ Read more about Caesar cipher [here](https://crypto.interactive-maths.com/caesar
 - `analyzeArray.js`: takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 <br/>
 
-**For information regarding the tests used for each function please see the `*.test.js` version of each function as they detail the tests used and their purpose.**
+**For information regarding the tests used for each function and their purpose please seek the `test` directory as it contains all the tests used in this project.**
 
 *Note:* Input validation (to a certain extent) is out-of-scope for this project.
 Therefore, each of the aforementioned functions assume that the given input is valid (i.e., a string is a valid string, a number is a valid number, etc.).

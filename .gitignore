@@ -1,3 +1,6 @@
+# Spell checker local config
+.vscode
+
 # Logs
 logs
 *.log
